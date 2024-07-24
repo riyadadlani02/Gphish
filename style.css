@@ -1,0 +1,49 @@
+/* Custom CSS for Prize Haven */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background: url('hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+}
+
+.countdown {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.icon {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+.testimonial img {
+    width: 100px;
+    height: 100px;
+}
+
+.testimonial p {
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+footer a {
+    color: inherit;
+    text-decoration: none;
+}
